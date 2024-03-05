@@ -1,2 +1,2 @@
 ﻿# btc-scripts
-# Bitcoin scripting homework for Cryptocurrency
+Bitcoin scripting homework for Cryptocurrency
